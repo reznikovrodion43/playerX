@@ -1,0 +1,3 @@
+  private float playerX;
+    private float playerY;
+    private float playerSpeed;
